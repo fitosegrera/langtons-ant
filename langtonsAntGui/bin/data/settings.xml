@@ -1,0 +1,9 @@
+<group>
+	<grid_on_off>1</grid_on_off>
+	<pause_play>1</pause_play>
+	<color>100, 100, 140, 255</color>
+	<living_cells:_>24</living_cells:_>
+	<dead_cells:_>9976</dead_cells:_>
+	<speed>210</speed>
+	<click_mouse>cells on/off</click_mouse>
+</group>
